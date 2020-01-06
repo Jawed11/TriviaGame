@@ -8,8 +8,7 @@ h2 {
 }
 
 body {
-    background-image: url("https://images3.alphacoders.com/319/thumb-1920-31917.jpg");
-    
+    background-image: url("https://images3.alphacoders.com/319/thumb-1920-31917.jpg");   
  }
  
  h3 { color: blue
@@ -17,4 +16,16 @@ body {
 
 button{
     text-align: center;
+}
+
+.box3{
+    margin-top: 150px;
+}
+
+.box8{
+    margin-top: 250px;
+}
+
+.box10{
+    margin-bottom: 150px;
 }
